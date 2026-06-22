@@ -1,8 +1,8 @@
 [English](README_EN.md)  [简体中文](README.md)  [繁體中文](README_TC.md)  [日本語](README_JP.md)
-# Penguin Routing Assistant & StarFire Routing Assistant
+# Penguin Routing Assistant & Spark Routing Assistant
 **Penguin Router Assistant** is a practical toolbox developed specifically for the "portable WiFi" community, integrating various hardware debugging and information viewing functions, suitable for a variety of domestic portable WiFi devices (such as ZTE Micro, UNISOC, ASR, etc.).
 
-As an advanced version of Penguin Routing Assistant, **StarFire Routing Assistant** has undergone a comprehensive upgrade on the original basis: 
+As an advanced version of Penguin Routing Assistant, **Spark Routing Assistant** has undergone a comprehensive upgrade on the original basis: 
 
 - Provide modern GUI pages that are more user-friendly and easy to learn
 - Add more support for Qualcomm 410, Qualcomm 210, and other routers/portable WiFi, etc
